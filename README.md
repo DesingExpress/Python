@@ -2,6 +2,8 @@
 
 # Python\[[Pyodide](https://github.com/pyodide/pyodide)\] Nodes
 
+> This Repository is the wrapper code from [pyodide/pyodide](https://github.com/pyodide/pyodide) to [Design Express](https://x.nexivil.com) node.
+
 Pyodide is a Python distribution for the browser based on WebAssembly.  
 This Node can be supported to run nodes written in Python.
 
