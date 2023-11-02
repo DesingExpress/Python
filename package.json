@@ -1,14 +1,27 @@
 {
-  "name": "@user/python",
-  "version": "0.1.0",
+  "name": "@NEXIVIL/Python",
+  "version": "1.0.0",
   "private": false,
-  "description": "",
-  "license": "MIT",
+  "summary": "Support Python Node on Design Express",
+  "description": "Support Python Node on Design Express",
+  "license": "MPL-2.0",
+  "keywords": [
+    "python",
+    "web",
+    "pyodide",
+    "browser",
+    "nocode",
+    "lowcode",
+    "visual-script",
+    "wasm"
+  ],
   "files": [
     "build"
   ],
   "dependencies": {
-    "@design-express/node-scripts": "1.1.5"
+    "@design-express/node-scripts": "^1.1.7",
+    "nanoid": "^5.0.2",
+    "pyodide": "^0.24.1"
   },
   "scripts": {
     "start": "node-scripts start",
