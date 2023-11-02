@@ -101,7 +101,7 @@ export class pyodideTest extends Pure {
 
 4. Done!🎉
 
-> You can see the complete code in this [folder](https://github.com/DesingExpress/Python/src/nodes/test)
+> You can see the complete code in this [folder](https://github.com/DesingExpress/Python/tree/master/src/nodes/test)
 
 ### ✨Features
 
